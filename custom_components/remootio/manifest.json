@@ -4,7 +4,7 @@
   "integration_type": "device",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/remootio",
-  "version": "1.4.3",
+  "version": "1.0.0",
   "requirements": ["aioremootio @ git+https://github.com/Scarcey21/aioremootio.git"],
   "issue_tracker": "https://github.com/yarafie/remootio/issues",
   "ssdp": [],
